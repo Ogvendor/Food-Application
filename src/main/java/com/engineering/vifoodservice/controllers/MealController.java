@@ -1,6 +1,5 @@
 package com.engineering.vifoodservice.controllers;
 
-import com.engineering.vifoodservice.data.repositories.MealRepo;
 import com.engineering.vifoodservice.payload.request.CreateMealRequest;
 import com.engineering.vifoodservice.services.MealService;
 
